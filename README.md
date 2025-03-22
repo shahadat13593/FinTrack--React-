@@ -29,6 +29,7 @@ A sleek and intuitive Expense Tracker App built with React to help you manage yo
 ```
 
 ## 📸 Screenshots
+![Capture](https://github.com/user-attachments/assets/2def335b-53cd-4b5b-832f-24ce7b656792)
 
 ## 🤝 Contributing
 
