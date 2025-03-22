@@ -1,12 +1,43 @@
-# React + Vite
+# 💸 Expense Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and intuitive Expense Tracker App built with React to help you manage your income and expenses effectively. Keep track of your financial activities, analyze your spending habits, and stay on top of your budget! 📊
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📥 **Add Income and Expenses:** Quickly log your transactions.
+- 🔍 **Transaction History:** View all past transactions.
+- 📊 **Overview Section:** Check total income, expenses, and balance at a glance.
+- 📌 **Categorization:** Categorize transactions for better organization.
+- 🧹 **Delete Transactions:** Remove single or all transactions.
+- 📐 **Sort Functionality:** Sort transactions by amount.
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React** — Frontend library.
+- 💅 **CSS** — For styling.
+
+## 📁 Folder Structure
+
+```
+📦 expense-tracker
+├── 📁 public
+└── 📁 src
+    ├── 📄 App.js
+    ├── 📄 index.js
+    ├── 📁 components
+    └── 📁 styles
+```
+
+## 📸 Screenshots
+
+## 🤝 Contributing
+
+Contributions are welcome! 🎉 Feel free to open an issue or submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License. 📝
+
+---
+
+Made with ❤️ by Shahadat Hossain.
